@@ -1,0 +1,3 @@
+triggerTimes:
+  start-workspace: 0 0 5 * * ?
+  stop-workspace: 0 15 8 * * ?
